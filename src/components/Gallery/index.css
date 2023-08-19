@@ -1,0 +1,12 @@
+.img-decor {
+  height: 400px;
+  width: 600px;
+}
+.main-container {
+  padding-left: 50px;
+  margin: 20px;
+}
+ul {
+  display: flex;
+  opacity: 0.5;
+}

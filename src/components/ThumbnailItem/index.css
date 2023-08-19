@@ -1,0 +1,15 @@
+.li-decor {
+  list-style-type: none;
+  padding: 10px;
+}
+.thumb-div {
+  display: flex;
+  background-color: transparent;
+  padding: 10px;
+}
+.thumb-div {
+  opacity: 0.5;
+}
+.each-div {
+  opacity: 10;
+}
